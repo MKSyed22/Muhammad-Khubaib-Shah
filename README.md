@@ -9,4 +9,4 @@ React Frontend Developer | JavaScript | HTML | CSS | Tailwind | Redux
 React | Redux | JavaScript | HTML5 | CSS3 | TailwindCSS | Git
 
 ## Projects
-- [Portfolio Website](https://github.com/KhubaibShah/portfolio)
+- [Portfolio Website](https://github.com/MKSyed22/Muhammad-Khubaib-Shah.git)
